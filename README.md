@@ -16,6 +16,6 @@ You can see details of my experience on [Linkedin](https://www.linkedin.com/in/r
 <a href="https://github.com/RizaldiPardede">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RizaldiPardede&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RizaldiPardede&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-  [![Rizaldi's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RizaldiPardede)](https://github.com/anuraghazra/github-readme-stats)
+  
 </a>
 </p>
