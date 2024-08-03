@@ -11,8 +11,6 @@ the field that I am studying is :
 
 You can see details of my experience on [Linkedin](https://www.linkedin.com/in/rizaldi-pardede-7b5708261)
 
-
-  
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/RizaldiPardede">
@@ -20,4 +18,3 @@ You can see details of my experience on [Linkedin](https://www.linkedin.com/in/r
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RizaldiPardede&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </a>
 </p>
-
