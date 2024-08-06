@@ -2,16 +2,16 @@ Hi guys 👋
 ==
 
 My name is **Rizaldi Pardede** from Brawijaya University \
-Information technology major 
+Information Technology major 
 
-the field that I am studying is :
+The fields that I am studying are:
 * Android development
 * Webservice
 * Backend Website
 
 You can see details of my experience on [Linkedin](https://www.linkedin.com/in/rizaldi-pardede-7b5708261)
 
-### Github Statistic
+### GitHub Statistic
 <p align="left">
 <a href="https://github.com/RizaldiPardede">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RizaldiPardede&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -25,4 +25,3 @@ You can see details of my experience on [Linkedin](https://www.linkedin.com/in/r
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RizaldiPardede&theme=algolia" alt="Most Commit Language"/>
 </a>
 </p>
-
