@@ -1,27 +1,24 @@
-Hi guys 👋 
-==
+## Hi guys 👋 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaldi-pardede-7b5708261)
 
-My name is **Rizaldi Pardede** from Brawijaya University \
-Information Technology major 
+Hi, I'm Rizaldi Pardede from Brawijaya University, majoring in Information Technology. Currently, I'm focusing on:
+- Android Development
+- Webservice
+- Backend Website
 
-The fields that I am studying are:
-* Android development
-* Webservice
-* Backend Website
+I'm always excited to learn new technologies and take on challenges! 🚀
 
-You can see details of my experience on [Linkedin](https://www.linkedin.com/in/rizaldi-pardede-7b5708261)
+---
 
-### GitHub Statistic
-<p align="left">
-<a href="https://github.com/RizaldiPardede">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RizaldiPardede&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizaldiPardede&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-</a>
-</p>
+<span>
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=RizaldiPardede&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+</span>
+<span>
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizaldiPardede&langs_count=5" />
+</span>
+<img align="center" width='full' src='https://github-readme-streak-stats.herokuapp.com/?user=RizaldiPardede&theme=transparent&hide_border=false' />
 
-<p align="left">
-<a href="https://github.com/RizaldiPardede">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RizaldiPardede&theme=algolia" alt="Repos per Language"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RizaldiPardede&theme=algolia" alt="Most Commit Language"/>
-</a>
-</p>
+---
+
+<img src='https://pbs.twimg.com/media/GRyYbBWWwAAD177?format=png&name=900x900' style="height: 400px;"/>
+
