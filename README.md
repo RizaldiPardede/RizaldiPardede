@@ -20,5 +20,4 @@ I'm always excited to learn new technologies and take on challenges! 🚀
 
 ---
 
-<img src='https://pbs.twimg.com/media/GRyYbBWWwAAD177?format=png&name=900x900' style="height: 400px;"/>
 
