@@ -6,7 +6,7 @@
 Hi, I'm Rizaldi Pardede from Brawijaya University, majoring in Information Technology. Currently, I'm focusing on:
 - Android Development
 - Internet Of Things
-- Backend Website
+- Backend Developer
 
 I'm always excited to learn new technologies and take on challenges! 🚀
 
