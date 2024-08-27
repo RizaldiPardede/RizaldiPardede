@@ -1,7 +1,7 @@
 ## Hi guys 👋 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaldi-pardede-7b5708261)
 
-<img src='https://visitcount.itsvg.in/api?id=raybrilliant&icon=5&color=13' style="justify:'end"/>
+<img src='https://visitcount.itsvg.in/api?id=RizaldiPardede&icon=5&color=13' style="justify:'end"/>
 
 Hi, I'm Rizaldi Pardede from Brawijaya University, majoring in Information Technology. Currently, I'm focusing on:
 - Android Development
